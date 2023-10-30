@@ -1,4 +1,4 @@
 # Weather App
 A frontend application using the weather api
 
-![Screenshot](weather-app.png)
+![](https://github.com/hakancoskun11/weatherApp/blob/main/weatherapp.gif)
